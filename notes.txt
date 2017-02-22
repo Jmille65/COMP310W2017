@@ -1,0 +1,16 @@
+Jan 4
+Office 754 McConnell, Muthucumaru Maheswaran- "Mahesh"
+office hours: MF 11-12
+Tenenbaum and Bos, Modern Operating Systems, 4th ed.
+
+Basics of Operating Systems
+Expensive machines can't idle- utilization should be high
+-batch processing was devised
+Gartner Hype Cycle
+Major OS functions
+-control access and provide interfaces
+  -to OS and devices attached to system
+  -provide interfaces for human-machine and machine-machine transactions
+-manage resources
+  -mediate resource usage among different tasks
+  -implement policies
