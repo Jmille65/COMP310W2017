@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "mimi.cs.mcgill.ca",
+  "target": "/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "jmille65",
+  "password": "5Zn++2#d",
+  "watch": [],
+  "transport": "scp",
+  "port": "22"
+}
