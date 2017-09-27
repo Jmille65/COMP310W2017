@@ -1,5 +1,0 @@
-total 48
--rw-r--r--  1 jordanmiller  staff      0  2 Feb 22:13 a.txt
--rwxr-xr-x  1 jordanmiller  staff  14980  2 Feb 22:01 simpleShell
--rw-r--r--  1 jordanmiller  staff   6687  2 Feb 22:11 simpleShell.c
-drwxr-xr-x  3 jordanmiller  staff    102  2 Feb 22:01 simpleShell.dSYM
