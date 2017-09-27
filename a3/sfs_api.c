@@ -1,6 +1,6 @@
 // Author: Jordan Miller, McGill University
 // April 11, 2017
-// Memory leaks are a result of the test suite not freeing malloc'd memory, not this!
+// memory leaks are a result of the test suite not freeing malloc'd memory, not this!
 // Notes: I had it working perfectly on my mac, and after moving it to Trottier it
 // started failing a lot. I tried using clang and GCC on both machines, same results...
 // I managed to get it working, but also found when I was debugging that things would
